@@ -25,4 +25,7 @@ All options are done programmed in methods in the same class and called each typ
 
 See the README in the *Management System-All-in-In* folder for more info about the programming procedure
 ___
+# NOTE
+**The application was programmed in CodeBlocks IDE but i have added gitignore so as tp be opened in other IDE platforms**
 
+___
