@@ -21,11 +21,39 @@ The input required are numerical values to select an option to operate.
 ___
 
 
-All options are done programmed in methods in the same class and called each type through a key input
+All options are programmed in methods that are embedded in the same class and called each type through a key input
 
 See the README in the *Management System-All-in-In* folder for more info about the programming procedure
 ___
 # NOTE
-**The application was programmed in CodeBlocks IDE but i have added gitignore so as tp be opened in other IDE platforms**
+**The application was programmed in CodeBlocks IDE but i have added gitignore so as to be opened in other IDE platforms**
 
 ___
+__THIS IS A MENU-DRIVEN USER INTERFACE__
+~~~
+The first screen that appears after you run the program is below:
+~~~
+![First Interface](interface_one.PNG)
+
+_All function declaration in the class are below_
+
+
+~~~c++
+void menu();
+void start();
+void worstFit();
+void bestFit();
+void firstFit();
+void MFT();
+void MVT();
+void pagingTechnique();
+void firstComeFirstServe();
+void shortestJobNext();
+void roundRobin();
+void priority();
+void banker_sAlgorithm();
+
+~~~
+
+As it can be seen we used C++ in our implementation.
+Extra information on the various management methods are in the __README file__ in _Management System-All-in-In_ folder
