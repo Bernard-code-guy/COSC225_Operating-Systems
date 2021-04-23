@@ -56,4 +56,4 @@ void banker_sAlgorithm();
 ~~~
 
 As it can be seen we used C++ in our implementation.
-Extra information on the various management methods are in the __README file__ in _Management System-All-in-In_ folder
+Extra information on the various management methods are in the __README file__ in __Management System-All-in-In__ folder
