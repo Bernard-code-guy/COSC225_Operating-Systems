@@ -157,3 +157,5 @@ menu();
 
 *This is how the interface for the first-fit looks like*
 ![Firs-fit](firstfit.PNG)
+
+## All other functions are structured like the one above 
